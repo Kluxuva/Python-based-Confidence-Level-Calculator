@@ -219,9 +219,6 @@ We welcome contributions! Areas for improvement:
 - Performance optimizations
 - Additional statistical tests
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 References
 
@@ -231,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions, suggestions, or collaborations, please open an issue or reach out via [your-email@domain.com](mailto:your-email@domain.com).
+For questions, suggestions, or collaborations, please open an issue or reach out via [your-pranavdabholkar11124.com](mailto:your-pranavdabholkar11124@gmail.com).
 
 ---
 
